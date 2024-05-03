@@ -1,0 +1,6 @@
+width	height	diameter	season	manufacturer
+39	19	36	1	1
+114	23	19	2	21
+63	15	32	4	57
+84	4	21	3	89
+73	29	39	1	54

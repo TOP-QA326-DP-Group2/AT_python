@@ -1,0 +1,6 @@
+width	diameter	pcd	et	dia	manufacturer
+13	16	13	39	1	62
+6	7	15	22	3	22
+9	5	11	113	39	55
+1	3	29	61	28	42
+23	14	30	29	105	4
